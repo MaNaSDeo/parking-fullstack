@@ -1,0 +1,10 @@
+{
+  "name": "autospace",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {},
+  "repository": "https://github.com/MaNaSDeo/parking-fullstack.git",
+  "author": "manasdeo <rmnslogin@gmail.com>",
+  "license": "MIT"
+}
